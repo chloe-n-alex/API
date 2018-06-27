@@ -1,4 +1,4 @@
-const baseURl = "https://www.omdbapi.com/?apikey=b17b6509&t=";
+const baseURl = "http://www.omdbapi.com/?apikey=b17b6509&t=";
 const searchTerm = document.querySelector(".search");
 const submitForm = document.querySelector('.submit');
 const searchForm = document.querySelector('form');
