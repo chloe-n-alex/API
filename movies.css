@@ -1,0 +1,33 @@
+#results {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 2px black;
+}
+
+.submit {
+    border-radius: 6px;
+    background-color: #FCB5B0;
+}
+
+#controls {
+    font-size: 35px;
+}
+body {
+    background-image: url("./images/film2\ .jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#title {
+    font-size: 45px;
+}
+
+#movieSearch {
+    font-size: 30px;
+}
+
+#submitSearch {
+    font-size: 25px;
+}
+.plot {
+    background-color: gray;
+}
